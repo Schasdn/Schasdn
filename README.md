@@ -1,6 +1,6 @@
 Hi, I’m @Schasdn.
 I´m a software developer trainee from Germany.
-I’m currently learning SQL and how to code in C#.
+I’m currently learning SQL and C#.
 You can reach me under mail@schasdn.de.
 
 <!---
