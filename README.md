@@ -1,7 +1,4 @@
-Hi, I’m @Schasdn.
-I´m a software developer trainee from Germany.
-I’m currently learning SQL and C#.
-You can reach me under mail@schasdn.de.
+Der Allerechte Schasdn: mail@schasdn.de.
 
 <!---
 Schasdn/Schasdn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
